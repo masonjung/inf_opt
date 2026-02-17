@@ -5,13 +5,24 @@
 [![Stars](https://img.shields.io/github/stars/masonjung/inference-scaling-moo.svg?style=social&label=Star)](https://github.com/masonjung/inference-scaling-moo)
 
 
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b9178ff5-98e2-4327-a0f8-7cfbdb190ebf" width="350" height="350" alt="Inference Scaling Logo" />
 </p>
 
 <p align="center">
+  <img width="370" height="113" alt="image" src="https://github.com/user-attachments/assets/2e791ed8-92ac-4f26-b096-bfd1f38869d3" />
+</p>
+
+<p align="center">
   Paper Link: https://arxiv.org/abs/2510.18905
 </p>
+
+<p align="center">
+  Cloudera AMP: https://cloudera.github.io/Applied-ML-Prototypes/#/community
+</p>
+
+
 
 
 
